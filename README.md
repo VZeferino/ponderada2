@@ -9,7 +9,7 @@ Este projeto implementa um chatbot simples que interpreta comandos relacionados 
 Clone este repositório, faça o build, coloque o source e rode o nó:
 
 ```bash
-git clone https://github.com/seu_usuario/ros2_chatbot.git
+git clone https://github.com/VZeferino/ponderada2.git
 
 cd ~/src/chatbot
 colcon build
